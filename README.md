@@ -12,12 +12,7 @@
   <b>⚔️ AI/ML • GENERATIVE AI • RAG • AGENTIC AI • CLOUD ⚔️</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abhishek-009-Mishra">
-    <img src="https://komarev.com/ghpvc/?username=Abhishek-009-Mishra&label=PROFILE%20VIEWS&color=DC143C&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Abhishek-009-Mishra?label=FOLLOWERS&style=for-the-badge&color=DC143C" />
-</p>
+
 
 ---
 
