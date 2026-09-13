@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=This+is+Abhishek+Mishra" alt="This is Abhishek Mishra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=42&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=This+is+Abhishek+Mishra" alt="This is Abhishek Mishra" />
 </h1>
 
 ### 🎓 B.Tech CSE (AI & ML) Student @ VIT Bhopal | 🤖 AI/ML | GenAI | RAG | Agentic AI | ☁️ Cloud
