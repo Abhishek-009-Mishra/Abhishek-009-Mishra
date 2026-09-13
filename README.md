@@ -1,244 +1,417 @@
+<!-- ========================= -->
+
+<!--        HERO SECTION       -->
+
+<!-- ========================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=42&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=This+is+Abhishek+Mishra" alt="This is Abhishek Mishra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=42&duration=2500&pause=1000&color=DC143C&center=true&vCenter=true&width=850&lines=This+is+Abhishek+Mishra;AI%2FML+Developer;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
-### 🎓 B.Tech CSE (AI & ML) Student @ VIT Bhopal | 🤖 AI/ML | GenAI | RAG | Agentic AI | ☁️ Cloud
+<p align="center">
+  <b>⚔️ AI/ML • GENERATIVE AI • RAG • AGENTIC AI • CLOUD ⚔️</b>
+</p>
 
-I'm a Computer Science student passionate about building **intelligent, practical and scalable applications** using Artificial Intelligence, Machine Learning and Cloud technologies.
-
-I enjoy turning ideas into working systems — from **ML models and data analysis pipelines to RAG-based applications, AI agents and backend APIs.**
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in **Computer Science & Engineering (AI & ML)**
-* 🏫 **Vellore Institute of Technology, Bhopal**
-* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
-* 🧠 Building applications using **RAG, LLMs and AI Agents**
-* 📊 Working with **Data Science, EDA & Predictive Modeling**
-* ☁️ Exploring **AWS, Cloud Computing & Deployment**
-* ⚙️ Developing backend applications using **FastAPI & Flask**
-* 🔗 Strong interest in **LangChain, LangGraph, Groq & Ollama**
-* 🌱 Currently learning **Agentic AI, Advanced RAG & Cloud/MLOps**
+<p align="center">
+  <a href="https://github.com/Abhishek-009-Mishra">
+    <img src="https://komarev.com/ghpvc/?username=Abhishek-009-Mishra&label=PROFILE%20VIEWS&color=DC143C&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Abhishek-009-Mishra?label=FOLLOWERS&style=for-the-badge&color=DC143C" />
+</p>
 
 ---
 
-## 🧠 Domains I've Worked On
+# ⚔️ WHO AM I?
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning ─── Data Science
-        ↓
-Generative AI ─────── NLP
-        ↓
-RAG ──────────────── LLM Applications
-        ↓
-Agentic AI ───────── Multi-Agent Systems
-        ↓
-Backend APIs ─────── Cloud Deployment
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  ABHISHEK MISHRA                             ║
+║                                                              ║
+║       B.Tech CSE (AI & ML) @ VIT Bhopal                     ║
+║                                                              ║
+║       AI/ML Developer • GenAI Builder • Problem Solver       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-### My primary areas
+I'm a **Computer Science & Engineering (AI & ML) student** passionate about building intelligent systems that combine **Machine Learning, Generative AI, RAG, AI Agents and Cloud technologies**.
 
-| Domain           | Focus                                   |
-| ---------------- | --------------------------------------- |
-| 🤖 AI / ML       | Regression, Classification, Clustering  |
-| 📊 Data Science  | EDA, Data Cleaning, Feature Engineering |
-| 🧠 Generative AI | LLM Applications, Prompt Engineering    |
-| 🔎 RAG           | Retrieval, Embeddings, Vector Search    |
-| 🤝 Agentic AI    | AI Agents, Workflows, Automation        |
-| 💬 NLP           | Chatbots & Conversational AI            |
-| ☁️ Cloud         | AWS & Application Deployment            |
-| ⚙️ Backend       | FastAPI, Flask & APIs                   |
+I don't just learn technologies — I try to **build with them**.
+
+My current work revolves around:
+
+> **Data → Intelligence → Automation → Deployment**
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 MY BATTLEFIELD
 
-### 👨‍💻 Programming
+<table>
+<tr>
+<td width="50%">
 
-`Python` `C++` `Java` `C` `SQL`
+### 🤖 ARTIFICIAL INTELLIGENCE
 
-### 🤖 AI / Machine Learning
+* Machine Learning
+* Generative AI
+* Large Language Models
+* Natural Language Processing
+* AI Agents
+* Agentic AI
 
-`Scikit-learn` `Pandas` `NumPy` `ML` `EDA` `Feature Engineering`
+</td>
 
-### 🧠 Generative AI
+<td width="50%">
 
-`LangChain` `LangGraph` `Groq` `Ollama` `RAG` `Prompt Engineering` `AI Agents`
+### 🧠 INTELLIGENT SYSTEMS
 
-### ⚙️ Backend & APIs
+* RAG
+* Vector Search
+* Embeddings
+* LLM Workflows
+* Multi-Agent Systems
+* Conversational AI
 
-`FastAPI` `Flask` `REST APIs`
+</td>
+</tr>
 
-### ☁️ Cloud & DevOps
+<tr>
+<td>
 
-`AWS` `EC2` `S3` `IAM` `Git` `GitHub`
+### 📊 DATA & MACHINE LEARNING
+
+* Exploratory Data Analysis
+* Data Cleaning
+* Feature Engineering
+* Regression
+* Classification
+* Clustering
+* Association Rule Mining
+
+</td>
+
+<td>
+
+### ☁️ ENGINEERING & CLOUD
+
+* Python Backend
+* FastAPI
+* Flask
+* REST APIs
+* AWS
+* Git & GitHub
+* Application Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🛡️ TECH ARSENAL
 
-## 🩺 NEET Chatbot 2.0
+### 💻 LANGUAGES
 
-An AI-powered learning assistant designed for NEET aspirants.
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=DC143C"/>
+</p>
 
-**Highlights:**
+### 🤖 AI / MACHINE LEARNING
 
-* 🔎 Retrieval-Augmented Generation (RAG)
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=DC143C"/>
+</p>
+
+### 🧠 GENERATIVE AI
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logoColor=DC143C"/>
+</p>
+
+### ⚙️ BACKEND & CLOUD
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C"/>
+</p>
+
+---
+
+# ⚔️ FEATURED PROJECTS
+
+## 🩺 NEET CHATBOT 2.0
+
+> **An AI-powered learning assistant for NEET aspirants.**
+
+A RAG-based educational assistant designed to provide intelligent academic support using NCERT-oriented knowledge and LLM-powered workflows.
+
+### ⚡ Core Features
+
+* 🔎 Retrieval-Augmented Generation
 * 🧠 LangChain + LangGraph
-* ⚡ Groq LLM
-* 📚 NCERT-based retrieval
-* 📝 PYQ & quiz generation
-* 🤖 AI-based doubt solving
-* 📊 Revision & progress workflows
+* ⚡ Groq-powered LLM
+* 📚 NCERT knowledge retrieval
+* 📝 PYQ assistance
+* 🧩 Quiz generation
+* 💡 Doubt solving
+* 🔄 Revision workflows
+* 🤖 Agent-based architecture
 
-**Tech:** `Python` `LangChain` `LangGraph` `Groq` `RAG` `FastAPI`
+**Stack**
 
----
-
-## 🌾 Agriculture Chatbot
-
-An AI-based chatbot designed to provide useful agricultural information through conversational interaction.
-
-**Tech:** `Python` `AI` `NLP` `Chatbot`
+`Python` `LangChain` `LangGraph` `Groq` `RAG` `FastAPI`
 
 ---
 
-## 🧬 Medical Data Analysis & Predictive Modeling
+## 🧬 MEDICAL DATA ANALYSIS & PREDICTIVE MODELING
 
-Machine learning workflows for analyzing medical datasets and developing predictive models.
+> **Turning medical data into meaningful insights.**
 
-**Techniques explored:**
+Machine learning workflows focused on data preparation, exploration, predictive modeling and pattern discovery.
+
+### ⚡ Techniques
+
+```text
+Data Cleaning
+      ↓
+EDA
+      ↓
+Feature Engineering
+      ↓
+Machine Learning
+      ↓
+Prediction / Pattern Discovery
+```
+
+Implemented techniques include:
 
 * Logistic Regression
 * Linear Regression
 * K-Means
 * Mean Shift
 * Apriori
-* Data Cleaning
 * Exploratory Data Analysis
 
----
+**Stack**
 
-## 🧠 RAG & AI Agent Projects
-
-Building experimental applications around:
-
-* Retrieval-Augmented Generation
-* Vector Search
-* Embeddings
-* LLM orchestration
-* AI Agents
-* Prompt Engineering
-* Automated workflows
+`Python` `Pandas` `NumPy` `Scikit-learn` `ML`
 
 ---
 
-# 📊 What I Build
+## 🌾 AGRICULTURE CHATBOT
+
+> **AI-powered conversational assistance for agriculture.**
+
+An experimental chatbot project focused on applying conversational AI to agricultural information and user assistance.
+
+**Stack**
+
+`Python` `AI` `NLP` `Chatbot`
+
+---
+
+## 🤖 RAG & AI AGENTS
+
+I'm actively experimenting with intelligent systems built around:
 
 ```text
-Data
- │
- ▼
-Data Cleaning → EDA → Feature Engineering
- │
- ▼
-Machine Learning
- │
- ▼
-LLM / Generative AI
- │
- ├── RAG
- ├── AI Agents
- └── Conversational Applications
- │
- ▼
-FastAPI / Flask
- │
- ▼
-Cloud Deployment
+             USER
+               │
+               ▼
+        ┌──────────────┐
+        │  AI AGENT    │
+        └──────┬───────┘
+               │
+       ┌───────┼────────┐
+       ▼       ▼        ▼
+     RAG     TOOLS    MEMORY
+       │       │        │
+       └───────┼────────┘
+               ▼
+             LLM
+               │
+               ▼
+          INTELLIGENT
+            RESPONSE
+```
+
+Areas I'm exploring:
+
+* RAG pipelines
+* Vector databases
+* Embeddings
+* Agentic workflows
+* Prompt engineering
+* LLM orchestration
+* Multi-agent systems
+
+---
+
+# 🧠 HOW I THINK
+
+```text
+┌─────────────────────────────────────────┐
+│              PROBLEM                    │
+└────────────────┬────────────────────────┘
+                 ↓
+┌─────────────────────────────────────────┐
+│             UNDERSTAND                  │
+└────────────────┬────────────────────────┘
+                 ↓
+┌─────────────────────────────────────────┐
+│               BUILD                     │
+└────────────────┬────────────────────────┘
+                 ↓
+┌─────────────────────────────────────────┐
+│               TEST                      │
+└────────────────┬────────────────────────┘
+                 ↓
+┌─────────────────────────────────────────┐
+│              IMPROVE                    │
+└────────────────┬────────────────────────┘
+                 ↓
+┌─────────────────────────────────────────┐
+│              DEPLOY                     │
+└─────────────────────────────────────────┘
+```
+
+**Build → Break → Learn → Improve → Repeat.**
+
+---
+
+# 🎯 CURRENT MISSION
+
+### 🔴 BUILDING
+
+* Advanced RAG applications
+* AI Agent systems
+* Agentic workflows
+* LLM-powered applications
+* ML pipelines
+* Cloud-deployed AI applications
+
+### ⚫ LEARNING
+
+* Advanced LangGraph
+* Multi-Agent Architectures
+* MLOps
+* AWS Cloud
+* Scalable AI Systems
+* Production-ready AI
+
+---
+
+# 🏆 CERTIFICATIONS & LEARNING
+
+* 🧠 IBM Agentic AI Training
+* ☁️ Oracle Cloud Infrastructure Data Science
+* 🤖 Generative AI & RAG Projects
+* 📊 Machine Learning & Data Science
+* ⚙️ Backend API Development
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-009-Mishra&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=DC143C&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-009-Mishra&layout=compact&theme=dark&title_color=DC143C&text_color=FFFFFF&border_color=DC143C&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-009-Mishra&theme=dark&background=000000&border=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+</p>
+
+---
+
+# ⚔️ CONTRIBUTION BATTLEFIELD
+
+<p align="center">
+
+```text
+          CODE IS THE WEAPON.
+          KNOWLEDGE IS THE ARMOR.
+          CONSISTENCY IS THE POWER.
+```
+
+</p>
+
+---
+
+# 🧭 THE ROAD AHEAD
+
+```text
+                    ┌──────────────┐
+                    │  AI / ML     │
+                    └──────┬───────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+          GenAI           RAG        Data Science
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                     Agentic AI
+                           │
+                           ▼
+                   Intelligent Systems
+                           │
+                           ▼
+                    Cloud Deployment
+                           │
+                           ▼
+                    🚀 PRODUCTION
 ```
 
 ---
 
-# 🎯 Current Focus
-
-🔭 **Currently working on**
-
-* Advanced RAG systems
-* Agentic AI
-* Multi-Agent workflows
-* AI-powered applications
-* Cloud deployment
-
-🌱 **Currently learning**
-
-* Advanced LangGraph
-* AI Agent architectures
-* MLOps
-* AWS Cloud
-* Scalable AI systems
-
-💡 **Interested in**
-
-`AI/ML Engineering` · `Generative AI` · `Cloud Engineering` · `Software Development`
-
----
-
-# 📜 Certifications & Learning
-
-* 🏆 IBM Agentic AI Training
-* ☁️ Oracle Cloud Infrastructure Data Science
-* 🤖 Generative AI & RAG Projects
-* 🧠 Machine Learning & Data Science Projects
-
----
-
-# 🏆 GitHub Stats
+# 🤝 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-009-Mishra&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-009-Mishra&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-009-Mishra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
 
 <a href="https://www.linkedin.com/in/abhishek-mishra-74745a324/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
 </a>
 
 <a href="mailto:abhishekm23022007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=DC143C"/>
 </a>
 
 <a href="https://github.com/Abhishek-009-Mishra">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=DC143C"/>
 </a>
 
 </p>
 
 ---
 
-### ⚡ "Build. Learn. Experiment. Repeat."
+<h2 align="center">
+  <font color="#DC143C">⚔️ BUILD WITH PURPOSE. CODE WITH DISCIPLINE. ⚔️</font>
+</h2>
 
-> *Turning ideas into intelligent systems, one project at a time.* 🤖
+<p align="center">
+  <b>Turning ideas into intelligent systems.</b>
+</p>
 
-⭐ If you find my projects useful, consider giving them a star!
+<p align="center">
+  <i>— Abhishek Mishra</i>
+</p>
+
